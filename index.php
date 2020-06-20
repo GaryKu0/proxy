@@ -471,12 +471,12 @@ function afficher_page_form($page) {
 	echo '	<meta name="robots" content="noindex, nofollow" />'."\n";
 	echo '<style type="text/css">'."\n";
 
-	echo 'body { background:#FF5508; width: 100%; margin:0; padding:0; }
+	echo 'body { background:#000000; width: 100%; margin:0; padding:0; }
 #orpx_nav-bar { height: 72px; padding: 4px 0; margin: 0; text-align: center; border-bottom: 1px solid #755; color: #000; background-color: #FF9864; font-size: 12px; }
 #orpx_nav-bar a { color: #000; }
 #orpx_nav-bar a:hover { color: #000000; }
-.windows-popup { background-color: #BF6464; border-top: 1px solid #44352C; border-bottom: 1px solid #44352C; clear: both; padding: 30px 0; text-align: center; margin-top: 152px; }
-.windows-popup { background-color: #C27D61; }
+.windows-popup { background-color: #000000; border-top: 1px solid #000000; border-bottom: 1px solid #000000; clear: both; padding: 30px 0; text-align: center; margin-top: 152px; }
+.windows-popup { background-color: #000000; }
 .windows-popup p, .windows-popup form { margin: 5px; }' . "\n";
 	echo '</style>'."\n";
 	echo '</head>'."\n";
